@@ -8,7 +8,7 @@
   "files": [
     "dist/**.min.js"
   ],
-  "repository": "git://github.com/runonbitcoin/run.git",
+  "repository": "git://github.com/borisjavier/run-sdk",
   "scripts": {
     "lint": "standard --fix",
     "build": "env NODE_OPTIONS=--openssl-legacy-provider webpack",
